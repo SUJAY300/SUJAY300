@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SUJAY300
 - 👀 I’m newbie in this field 
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning react.js
 - 📫 How to reach me - sujaythasale@gmail.com 
 
 <!---
